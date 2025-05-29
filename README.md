@@ -13,3 +13,14 @@
 
 1. 上記リンクからColabを開く
 2. Shift+Enterで上から順番に実行
+
+
+## 📊 使用データセット
+
+本プロジェクトでは以下のオープンデータを使用しています：
+
+- データ提供元：[IBM Sample Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- データライセンス：公開・商用利用可（Kaggleライセンスに準拠）
+- ダウンロード元：Kaggle（登録無料）
+
+CSVファイルとして `customer-churn_sample.csv` に保存し、GitHubリポジトリに格納しています。
